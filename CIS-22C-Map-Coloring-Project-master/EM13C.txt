@@ -1,0 +1,26 @@
+#Delaware
+Pennsylvania/New Jersey/Maryland
+#Pennsylvania
+Delaware/New Jersey/Maryland/Virginia/New York
+#New Jersey
+Delaware/Pennsylvania/New York
+#Georgia
+South Carolina
+#Connecticut
+Massachusetts/New York/Rhode Island
+#Massachusetts
+Connecticut/New Hampshire/New York/Rhode Island
+#Maryland
+Delaware/Pennsylvania/Virginia
+#South Carolina
+Georgia/North Carolina
+#New Hampshire
+Massachusetts/New York
+#Virginia
+Pennsylvania/Maryland/North Carolina
+#New York
+Pennsylvania/New Jersey/Connecticut/Massachusetts
+#North Carolina
+Georgia/South Carolina/Virginia
+#Rhode Island
+Connecticut/Massachusetts

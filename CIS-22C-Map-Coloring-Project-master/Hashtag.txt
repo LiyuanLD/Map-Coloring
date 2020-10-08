@@ -1,0 +1,16 @@
+##FOOD
+#Salad/#Beans/#Bacon
+##Salad
+#Beans/#FOOD
+##Beans
+#FOOD/#Salad/#Steak
+##Bacon
+#FOOD/#Steak/#Chef/#Yum/#Bread
+##Steak
+#Beans/#Bacon/#Chef
+##Chef
+#Steak/#Bacon/#Yum
+##Yum
+#Bacon/#Yum/#Bread
+##Bread
+#Bacon/#Yum
